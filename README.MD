@@ -14,8 +14,8 @@ Customer Demographics Analysis
 ![demografi](./img/demografi.png)
 
 Best & Worst Performing Products
-![cateogri1](./img/categori1.png)
-![cateogri2](./img/categori2.png)
+![categori1](./img/categori1.png)
+![categori2](./img/categori2.png)
 
 RFM Segmentation Analysis
 ![rfm](./img/rfm.png)
