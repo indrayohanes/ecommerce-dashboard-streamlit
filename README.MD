@@ -11,7 +11,7 @@ RFM Customer Segmentation: Segment customers using the RFM (Recency, Frequency, 
 Here are some snapshots of the dashboard in action.
 
 Customer Demographics Analysis
-
+![demografi](./img/demografi.png)
 
 Best & Worst Performing Products
 
