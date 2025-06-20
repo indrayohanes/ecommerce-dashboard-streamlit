@@ -1,6 +1,12 @@
 E-commerce Data Analysis Dashboard
 This project is an interactive dashboard built with Streamlit for a comprehensive analysis of E-commerce data. It allows users to gain insights into customer behavior, product performance, and overall sales trends.
 
+🛠️ Built With
+Python
+Streamlit - The core framework for building the interactive web app.
+Pandas - For data manipulation and analysis.
+Plotly / Matplotlib / Seaborn - For data visualization.
+
 ✨ Features
 This dashboard provides three main analytical views:
 
@@ -44,9 +50,3 @@ Run the Streamlit application with the command:
 streamlit run dashboard.py
 Open your web browser and navigate to the following local URL:
 http://localhost:8501
-
-🛠️ Built With
-Python
-Streamlit - The core framework for building the interactive web app.
-Pandas - For data manipulation and analysis.
-Plotly / Matplotlib / Seaborn - For data visualization.
